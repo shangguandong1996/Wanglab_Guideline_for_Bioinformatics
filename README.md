@@ -10,7 +10,8 @@
 		- [服务器](#服务器)
 	
 	- [R](#R)
-		- [R stuido](#R studio)
+		- [R_stuido](#R_studio)
+		- [ggplot2](#ggplot2)
 	
 	
 
@@ -32,7 +33,11 @@
 
 ## R
 
-### R studio
+### R_studio
+
+
+
+### ggplot2
 
 
 
